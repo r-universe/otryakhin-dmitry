@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "HDShOP"]
-	path = HDShOP
-	url = https://github.com/otryakhin-dmitry/global-minimum-variance-portfolio
-	shallow = true
-	subdir = HDShOP
-	registered = true

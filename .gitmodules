@@ -1,28 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "deforestable"]
 	path = deforestable
 	url = https://github.com/cran/deforestable
-	shallow = true
-	registered = true
 [submodule "EstimDiagnostics"]
 	path = EstimDiagnostics
 	url = https://gitlab.com/dmitry_otryakhin/diagnostics-and-tests-for-statistical-estimators
-	shallow = true
 	subdir = EstimDiagnostics
-	registered = true
 [submodule "HDShOP"]
 	path = HDShOP
 	url = https://github.com/otryakhin-dmitry/global-minimum-variance-portfolio
-	shallow = true
 	subdir = HDShOP
-	registered = true
 [submodule "rlfsm"]
 	path = rlfsm
 	url = https://gitlab.com/dmitry_otryakhin/tools-for-parameter-estimation-of-the-linear-fractional-stable-motion
-	shallow = true
 	subdir = rlfsm
-	registered = true

@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "deforestable"]
-	path = deforestable
-	url = https://github.com/cran/deforestable
 [submodule "EstimDiagnostics"]
 	path = EstimDiagnostics
 	url = https://gitlab.com/dmitry_otryakhin/diagnostics-and-tests-for-statistical-estimators
@@ -13,6 +10,9 @@
 	path = HDShOP
 	url = https://github.com/otryakhin-dmitry/global-minimum-variance-portfolio
 	subdir = HDShOP
+[submodule "deforestable"]
+	path = deforestable
+	url = https://github.com/cran/deforestable
 [submodule "rlfsm"]
 	path = rlfsm
 	url = https://gitlab.com/dmitry_otryakhin/tools-for-parameter-estimation-of-the-linear-fractional-stable-motion

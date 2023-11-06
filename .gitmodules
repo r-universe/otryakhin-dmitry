@@ -9,7 +9,6 @@
 [submodule "HDShOP"]
 	path = HDShOP
 	url = https://github.com/otryakhin-dmitry/global-minimum-variance-portfolio
-	subdir = HDShOP
 [submodule "deforestable"]
 	path = deforestable
 	url = https://github.com/cran/deforestable

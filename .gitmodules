@@ -8,7 +8,7 @@
 	subdir = EstimDiagnostics
 [submodule "HDShOP"]
 	path = HDShOP
-	url = https://github.com/otryakhin-dmitry/global-minimum-variance-portfolio
+	url = https://github.com/otryakhin-dmitry/high-dimensional-shrinkage-optimal-portfolios
 [submodule "deforestable"]
 	path = deforestable
 	url = https://github.com/cran/deforestable
